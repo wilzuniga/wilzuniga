@@ -1,4 +1,4 @@
-# ¡Hola, soy Wilmmer! 👋
+# ¡Hola, soy Wilmer!
 
 ## Sobre mí
 Soy un joven entusiasta del desarrollo de software con una pasión por la creación de soluciones innovadoras y eficientes. Tengo experiencia en una variedad de lenguajes de programación, incluyendo C++, Java, Python y JavaScript. Me encanta aprender cosas nuevas y enfrentar desafíos emocionantes en el mundo del desarrollo de software. En el futuro, me encantaría especializarme en el campo de la ciberseguridad.
